@@ -4,8 +4,7 @@ Meu nome é Luis Henrique
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem Java Script e screatch 
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Gosto de futebol
 
-### Voce entrar em  contato comigo 📧 
-
-00001137027289sp@al.educacao.sp.gov.br 
+- ![](https://tenor.com/pt-BR/view/corinthians-rodrigo-garro-gif-3467882418664779333)
