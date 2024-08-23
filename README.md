@@ -10,4 +10,4 @@ Meu nome é Luis Henrique
 - Pretendo ser medico ou Biologo
 
 
-![](https://tenor.com/pt-BR/view/corinthians-rodrigo-garro-gif-3467882418664779333)
+![](https://media1.tenor.com/m/MCBkr6dWLkUAAAAd/corinthians-rodrigo-garro.gif)
